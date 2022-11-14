@@ -35,9 +35,4 @@ Data representation of an envelope instance is based on JSON as shown below
     "category": "Groceries",
     "cost": 150
 }
-```# Personal_Budget
-# Personal_Budget
-#   P e r s o n a l _ B u d g e t 
- 
- # Personal_Budget
-# Personal_Budget
+```
